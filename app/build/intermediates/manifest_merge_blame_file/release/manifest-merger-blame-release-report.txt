@@ -1,0 +1,226 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.juliovazquez.hsind"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:6:5-79
+11-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:6:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:7:5-67
+12-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:7:22-64
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:8:5-80
+13-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:8:22-77
+14    <uses-permission android:name="android.permission.READ_CALENDAR" />
+14-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:9:5-72
+14-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:9:22-69
+15    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+15-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:10:5-73
+15-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:10:22-70
+16    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+16-->[com.google.firebase:firebase-iid:20.0.2] /home/jandr/.gradle/caches/transforms-2/files-2.1/c9db0434b2d11d5fd7c77a1108905ace/jetified-firebase-iid-20.0.2/AndroidManifest.xml:24:5-68
+16-->[com.google.firebase:firebase-iid:20.0.2] /home/jandr/.gradle/caches/transforms-2/files-2.1/c9db0434b2d11d5fd7c77a1108905ace/jetified-firebase-iid-20.0.2/AndroidManifest.xml:24:22-65
+17    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+17-->[com.google.firebase:firebase-iid:20.0.2] /home/jandr/.gradle/caches/transforms-2/files-2.1/c9db0434b2d11d5fd7c77a1108905ace/jetified-firebase-iid-20.0.2/AndroidManifest.xml:26:5-82
+17-->[com.google.firebase:firebase-iid:20.0.2] /home/jandr/.gradle/caches/transforms-2/files-2.1/c9db0434b2d11d5fd7c77a1108905ace/jetified-firebase-iid-20.0.2/AndroidManifest.xml:26:22-79
+18
+19    <application
+19-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:12:5-45:19
+20        android:allowBackup="true"
+20-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:13:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.3.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/8b895fe480a61b401333abcc2e952028/core-1.3.0/AndroidManifest.xml:24:18-86
+22        android:icon="@drawable/ic_launcher"
+22-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:14:9-45
+23        android:label="@string/app_name"
+23-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:15:9-41
+24        android:networkSecurityConfig="@xml/network_security_config"
+24-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:16:9-69
+25        android:roundIcon="@drawable/ic_launcher_foreground"
+25-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:17:9-61
+26        android:supportsRtl="true"
+26-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:18:9-35
+27        android:theme="@style/AppTheme" >
+27-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:19:9-40
+28        <activity android:name="com.juliovazquez.hsind.Activities.Paciente.Activity_Menu_Paciente" />
+28-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:20:9-80
+28-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:20:19-77
+29        <activity android:name="com.juliovazquez.hsind.Activities.Usuario.Activity_Menu_Principal" />
+29-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:21:9-80
+29-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:21:19-77
+30        <activity android:name="com.juliovazquez.hsind.Activities.Usuario.Activity_Login" />
+30-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:22:9-71
+30-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:22:19-68
+31        <activity android:name="com.juliovazquez.hsind.Activities.Usuario.Activity_Splash_Screen" >
+31-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:23:9-32:20
+31-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:23:19-76
+32            <intent-filter>
+32-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:24:13-27:29
+33                <action android:name="Activity_Splash_Screen" />
+33-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:25:17-65
+33-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:25:25-62
+34
+35                <category android:name="android.intent.category.DEFAULT" />
+35-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:26:17-76
+35-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:26:27-73
+36            </intent-filter>
+37            <intent-filter>
+37-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:28:13-31:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:29:17-69
+38-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:29:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:30:17-77
+40-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:30:27-74
+41            </intent-filter>
+42        </activity>
+43
+44        <service
+44-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:34:9-40:19
+45            android:name="com.juliovazquez.hsind.Services.Service_Firebase_Messaging"
+45-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:35:13-64
+46            android:exported="false" >
+46-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:36:13-37
+47            <intent-filter>
+47-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:37:13-39:29
+48                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+48-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:38:17-78
+48-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:38:25-75
+49            </intent-filter>
+50        </service>
+51
+52        <meta-data
+52-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:42:9-44:63
+53            android:name="com.google.firebase.messaging.default_notification_channel_id"
+53-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:43:13-89
+54            android:value="@string/notification_channel_id" />
+54-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:44:13-60
+55        <!--
+56             FirebaseMessagingService performs security checks at runtime,
+57             but set to not exported to explicitly avoid allowing another app to call it.
+58        -->
+59        <service
+59-->[com.google.firebase:firebase-messaging:20.1.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/46728d5b331fcc471ce847e03be05d1d/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:28:9-34:19
+60            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+60-->[com.google.firebase:firebase-messaging:20.1.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/46728d5b331fcc471ce847e03be05d1d/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:29:13-82
+61            android:exported="false" >
+61-->[com.google.firebase:firebase-messaging:20.1.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/46728d5b331fcc471ce847e03be05d1d/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:30:13-37
+62            <intent-filter android:priority="-500" >
+62-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:37:13-39:29
+63                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+63-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:38:17-78
+63-->/home/jandr/FlutterProjects/HSInd/app/src/main/AndroidManifest.xml:38:25-75
+64            </intent-filter>
+65        </service>
+66        <service
+66-->[com.google.firebase:firebase-messaging:20.1.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/46728d5b331fcc471ce847e03be05d1d/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:35:9-41:19
+67            android:name="com.google.firebase.components.ComponentDiscoveryService"
+67-->[com.google.firebase:firebase-messaging:20.1.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/46728d5b331fcc471ce847e03be05d1d/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:36:13-84
+68            android:directBootAware="true"
+68-->[com.google.firebase:firebase-common:19.3.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/6f187287bbc9c29b2d5c7acb6e706ac7/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+69            android:exported="false" >
+69-->[com.google.firebase:firebase-messaging:20.1.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/46728d5b331fcc471ce847e03be05d1d/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:37:13-37
+70            <meta-data
+70-->[com.google.firebase:firebase-messaging:20.1.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/46728d5b331fcc471ce847e03be05d1d/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:38:13-40:85
+71                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+71-->[com.google.firebase:firebase-messaging:20.1.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/46728d5b331fcc471ce847e03be05d1d/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:39:17-119
+72                android:value="com.google.firebase.components.ComponentRegistrar" />
+72-->[com.google.firebase:firebase-messaging:20.1.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/46728d5b331fcc471ce847e03be05d1d/jetified-firebase-messaging-20.1.0/AndroidManifest.xml:40:17-82
+73            <meta-data
+73-->[com.google.firebase:firebase-datatransport:17.0.3] /home/jandr/.gradle/caches/transforms-2/files-2.1/bb15ed3d1ee6b756bf1ba9c389bd9e82/jetified-firebase-datatransport-17.0.3/AndroidManifest.xml:28:13-30:85
+74                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+74-->[com.google.firebase:firebase-datatransport:17.0.3] /home/jandr/.gradle/caches/transforms-2/files-2.1/bb15ed3d1ee6b756bf1ba9c389bd9e82/jetified-firebase-datatransport-17.0.3/AndroidManifest.xml:29:17-115
+75                android:value="com.google.firebase.components.ComponentRegistrar" />
+75-->[com.google.firebase:firebase-datatransport:17.0.3] /home/jandr/.gradle/caches/transforms-2/files-2.1/bb15ed3d1ee6b756bf1ba9c389bd9e82/jetified-firebase-datatransport-17.0.3/AndroidManifest.xml:30:17-82
+76            <meta-data
+76-->[com.google.firebase:firebase-iid:20.0.2] /home/jandr/.gradle/caches/transforms-2/files-2.1/c9db0434b2d11d5fd7c77a1108905ace/jetified-firebase-iid-20.0.2/AndroidManifest.xml:32:13-34:85
+77                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+77-->[com.google.firebase:firebase-iid:20.0.2] /home/jandr/.gradle/caches/transforms-2/files-2.1/c9db0434b2d11d5fd7c77a1108905ace/jetified-firebase-iid-20.0.2/AndroidManifest.xml:33:17-96
+78                android:value="com.google.firebase.components.ComponentRegistrar" />
+78-->[com.google.firebase:firebase-iid:20.0.2] /home/jandr/.gradle/caches/transforms-2/files-2.1/c9db0434b2d11d5fd7c77a1108905ace/jetified-firebase-iid-20.0.2/AndroidManifest.xml:34:17-82
+79        </service>
+80
+81        <receiver
+81-->[com.google.firebase:firebase-iid:20.0.2] /home/jandr/.gradle/caches/transforms-2/files-2.1/c9db0434b2d11d5fd7c77a1108905ace/jetified-firebase-iid-20.0.2/AndroidManifest.xml:37:9-44:20
+82            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+82-->[com.google.firebase:firebase-iid:20.0.2] /home/jandr/.gradle/caches/transforms-2/files-2.1/c9db0434b2d11d5fd7c77a1108905ace/jetified-firebase-iid-20.0.2/AndroidManifest.xml:38:13-78
+83            android:exported="true"
+83-->[com.google.firebase:firebase-iid:20.0.2] /home/jandr/.gradle/caches/transforms-2/files-2.1/c9db0434b2d11d5fd7c77a1108905ace/jetified-firebase-iid-20.0.2/AndroidManifest.xml:39:13-36
+84            android:permission="com.google.android.c2dm.permission.SEND" >
+84-->[com.google.firebase:firebase-iid:20.0.2] /home/jandr/.gradle/caches/transforms-2/files-2.1/c9db0434b2d11d5fd7c77a1108905ace/jetified-firebase-iid-20.0.2/AndroidManifest.xml:40:13-73
+85            <intent-filter>
+85-->[com.google.firebase:firebase-iid:20.0.2] /home/jandr/.gradle/caches/transforms-2/files-2.1/c9db0434b2d11d5fd7c77a1108905ace/jetified-firebase-iid-20.0.2/AndroidManifest.xml:41:13-43:29
+86                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+86-->[com.google.firebase:firebase-iid:20.0.2] /home/jandr/.gradle/caches/transforms-2/files-2.1/c9db0434b2d11d5fd7c77a1108905ace/jetified-firebase-iid-20.0.2/AndroidManifest.xml:42:17-81
+86-->[com.google.firebase:firebase-iid:20.0.2] /home/jandr/.gradle/caches/transforms-2/files-2.1/c9db0434b2d11d5fd7c77a1108905ace/jetified-firebase-iid-20.0.2/AndroidManifest.xml:42:25-78
+87            </intent-filter>
+88        </receiver>
+89
+90        <provider
+90-->[com.google.firebase:firebase-common:19.3.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/6f187287bbc9c29b2d5c7acb6e706ac7/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+91            android:name="com.google.firebase.provider.FirebaseInitProvider"
+91-->[com.google.firebase:firebase-common:19.3.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/6f187287bbc9c29b2d5c7acb6e706ac7/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+92            android:authorities="com.juliovazquez.hsind.firebaseinitprovider"
+92-->[com.google.firebase:firebase-common:19.3.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/6f187287bbc9c29b2d5c7acb6e706ac7/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+93            android:exported="false"
+93-->[com.google.firebase:firebase-common:19.3.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/6f187287bbc9c29b2d5c7acb6e706ac7/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+94            android:initOrder="100" />
+94-->[com.google.firebase:firebase-common:19.3.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/6f187287bbc9c29b2d5c7acb6e706ac7/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+95
+96        <activity
+96-->[com.google.android.gms:play-services-base:17.0.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/d9faaaf26fc140f365e3b207d6db990b/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+97            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+97-->[com.google.android.gms:play-services-base:17.0.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/d9faaaf26fc140f365e3b207d6db990b/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+98            android:exported="false"
+98-->[com.google.android.gms:play-services-base:17.0.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/d9faaaf26fc140f365e3b207d6db990b/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+99            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+99-->[com.google.android.gms:play-services-base:17.0.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/d9faaaf26fc140f365e3b207d6db990b/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+100
+101        <meta-data
+101-->[com.google.android.gms:play-services-basement:17.0.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/ce53febe539132800a46a9079cdd025f/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+102            android:name="com.google.android.gms.version"
+102-->[com.google.android.gms:play-services-basement:17.0.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/ce53febe539132800a46a9079cdd025f/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+103            android:value="@integer/google_play_services_version" />
+103-->[com.google.android.gms:play-services-basement:17.0.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/ce53febe539132800a46a9079cdd025f/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+104
+105        <service
+105-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/0c8fb69f4a0b40bb1610400a24250337/jetified-transport-backend-cct-2.2.0/AndroidManifest.xml:29:9-35:19
+106            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+106-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/0c8fb69f4a0b40bb1610400a24250337/jetified-transport-backend-cct-2.2.0/AndroidManifest.xml:30:13-103
+107            android:exported="false" >
+107-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/0c8fb69f4a0b40bb1610400a24250337/jetified-transport-backend-cct-2.2.0/AndroidManifest.xml:31:13-37
+108            <meta-data
+108-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/0c8fb69f4a0b40bb1610400a24250337/jetified-transport-backend-cct-2.2.0/AndroidManifest.xml:32:13-34:39
+109                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+109-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/0c8fb69f4a0b40bb1610400a24250337/jetified-transport-backend-cct-2.2.0/AndroidManifest.xml:33:17-94
+110                android:value="cct" />
+110-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/0c8fb69f4a0b40bb1610400a24250337/jetified-transport-backend-cct-2.2.0/AndroidManifest.xml:34:17-36
+111        </service>
+112        <service
+112-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/470bfa86e36d8e671599086e641c0d5c/jetified-transport-runtime-2.2.0/AndroidManifest.xml:26:9-30:19
+113            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+113-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/470bfa86e36d8e671599086e641c0d5c/jetified-transport-runtime-2.2.0/AndroidManifest.xml:27:13-117
+114            android:exported="false"
+114-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/470bfa86e36d8e671599086e641c0d5c/jetified-transport-runtime-2.2.0/AndroidManifest.xml:28:13-37
+115            android:permission="android.permission.BIND_JOB_SERVICE" >
+115-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/470bfa86e36d8e671599086e641c0d5c/jetified-transport-runtime-2.2.0/AndroidManifest.xml:29:13-69
+116        </service>
+117
+118        <receiver
+118-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/470bfa86e36d8e671599086e641c0d5c/jetified-transport-runtime-2.2.0/AndroidManifest.xml:32:9-34:40
+119            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+119-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/470bfa86e36d8e671599086e641c0d5c/jetified-transport-runtime-2.2.0/AndroidManifest.xml:33:13-132
+120            android:exported="false" />
+120-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/jandr/.gradle/caches/transforms-2/files-2.1/470bfa86e36d8e671599086e641c0d5c/jetified-transport-runtime-2.2.0/AndroidManifest.xml:34:13-37
+121    </application>
+122
+123</manifest>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.Paciente.Fragment_Agregar_Signos">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:layout_height="match_parent"
+        android:layout_width="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_marginTop="20dp"
+                    android:paddingRight="30dp"
+                    android:paddingLeft="30dp"
+                    android:gravity="center"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"
+                    android:maxLines="1"
+                    android:textStyle="bold"
+                    android:layout_width="match_parent"
+                    android:text="Agregar signos vitales"
+                    android:layout_height="wrap_content"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_margin="15dp"
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:layout_height="wrap_content">
+                <EditText
+                    android:inputType="numberDecimal"
+                    android:id="@+id/txtTemperatura"
+                    android:background="@drawable/edittext_bordeazul"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:textSize="13sp"
+                    android:maxLines="1"
+                    android:hint="Temperatura">
+                </EditText>
+                <EditText
+                    android:background="@drawable/edittext_bordeazul"
+                    android:padding="10dp"
+                    android:id="@+id/txtPulso"
+                    android:hint="Pulso"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="13sp"
+                    android:inputType="number"
+                    android:layout_marginTop="20dp"
+                    android:maxLines="1" >
+                </EditText>
+
+                <EditText
+                    android:id="@+id/txtFr"
+                    android:background="@drawable/edittext_bordeazul"
+                    android:layout_marginTop="20dp"
+                    android:padding="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="13sp"
+                    android:maxLines="1"
+                    android:inputType="number"
+                    android:hint="Frecuencia respiratoria">
+                </EditText>
+
+                <EditText
+                    android:id="@+id/txtCo2"
+                    android:background="@drawable/edittext_bordeazul"
+                    android:layout_marginTop="20dp"
+                    android:padding="10dp"
+                    android:maxLines="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="13sp"
+                    android:inputType="number"
+                    android:hint="Saturacion de oxigeno">
+                </EditText>
+
+                <EditText
+                    android:id="@+id/txtPs"
+                    android:background="@drawable/edittext_bordeazul"
+                    android:layout_marginTop="20dp"
+                    android:padding="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="13sp"
+                    android:maxLines="1"
+                    android:inputType="number"
+                    android:hint="Presion sistolica">
+                </EditText>
+
+                <EditText
+                    android:id="@+id/txtPd"
+                    android:background="@drawable/edittext_bordeazul"
+                    android:layout_marginTop="20dp"
+                    android:padding="10dp"
+                    android:maxLines="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="13sp"
+                    android:inputType="number"
+                    android:hint="Presion diastolica">
+                </EditText>
+
+                <Button
+                    android:layout_marginTop="20dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginRight="30dp"
+                    android:background="@drawable/boton_azul"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/btnAgregar"
+                    android:textSize="15sp"
+                    android:textColor="@color/white"
+                    android:text="Agregar"/>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

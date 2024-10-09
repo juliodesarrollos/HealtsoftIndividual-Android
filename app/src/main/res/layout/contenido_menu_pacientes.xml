@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".Activities.Paciente.Activity_Menu_Paciente">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_pacientes"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        app:layout_scrollFlags="scroll|enterAlways"
+        app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    <fragment android:name="com.juliovazquez.hsind.Activities.Paciente.Fragment_Historia_Clinica"
+        android:id="@+id/fragmentHC"
+        android:layout_marginTop="57dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <fragment android:name="com.juliovazquez.hsind.Activities.Paciente.Fragment_Notas_Paciente"
+        android:id="@+id/fragmentNotas"
+        android:layout_marginTop="57dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <fragment android:name="com.juliovazquez.hsind.Activities.Paciente.Fragment_Signos_Paciente"
+        android:id="@+id/fragmentSignos"
+        android:layout_marginTop="57dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <fragment android:name="com.juliovazquez.hsind.Activities.Paciente.Fragment_Resumen_Paciente"
+        android:id="@+id/fragmentResumen"
+        android:layout_marginTop="57dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

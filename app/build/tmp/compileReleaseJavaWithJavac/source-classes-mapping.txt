@@ -1,0 +1,148 @@
+com/juliovazquez/hsind/Activities/Paciente/Fragment_Agregar_Signos.java
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Agregar_Signos
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Agregar_Signos$1
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Agregar_Signos$2
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Agregar_Signos$2$1
+com/juliovazquez/hsind/Activities/Agenda/DrawableCalendarEvent.java
+ com.juliovazquez.hsind.Activities.Agenda.DrawableCalendarEvent
+com/juliovazquez/hsind/Tools/Tool_Fecha.java
+ com.juliovazquez.hsind.Tools.Tool_Fecha
+com/juliovazquez/hsind/Pojos/Pojo_Paciente.java
+ com.juliovazquez.hsind.Pojos.Pojo_Paciente
+com/juliovazquez/hsind/Tools/Tool_Sweet_Alert.java
+ com.juliovazquez.hsind.Tools.Tool_Sweet_Alert
+ com.juliovazquez.hsind.Tools.Tool_Sweet_Alert$1
+ com.juliovazquez.hsind.Tools.Tool_Sweet_Alert$2
+com/juliovazquez/hsind/Pojos/Pojo_Evento.java
+ com.juliovazquez.hsind.Pojos.Pojo_Evento
+com/juliovazquez/hsind/Activities/Usuario/Fragment_Aviso_Privacidad.java
+ com.juliovazquez.hsind.Activities.Usuario.Fragment_Aviso_Privacidad
+com/juliovazquez/hsind/BuildConfig.java
+ com.juliovazquez.hsind.BuildConfig
+com/juliovazquez/hsind/Tools/Tool_Parser.java
+ com.juliovazquez.hsind.Tools.Tool_Parser
+com/juliovazquez/hsind/Activities/Paciente/Fragment_Agregar_Nota.java
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Agregar_Nota
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Agregar_Nota$1
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Agregar_Nota$2
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Agregar_Nota$2$1
+com/juliovazquez/hsind/Pojos/Pojo_Usuario.java
+ com.juliovazquez.hsind.Pojos.Pojo_Usuario
+com/juliovazquez/hsind/Activities/Paciente/Fragment_Historia_Clinica.java
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Historia_Clinica
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Historia_Clinica$1
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Historia_Clinica$1$1
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Historia_Clinica$2
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Historia_Clinica$3
+com/juliovazquez/hsind/Activities/Agenda/Fragment_Agenda.java
+ com.juliovazquez.hsind.Activities.Agenda.Fragment_Agenda
+ com.juliovazquez.hsind.Activities.Agenda.Fragment_Agenda$1
+ com.juliovazquez.hsind.Activities.Agenda.Fragment_Agenda$1$1
+ com.juliovazquez.hsind.Activities.Agenda.Fragment_Agenda$2
+ com.juliovazquez.hsind.Activities.Agenda.Fragment_Agenda$3
+ com.juliovazquez.hsind.Activities.Agenda.Fragment_Agenda$3$1
+ com.juliovazquez.hsind.Activities.Agenda.Fragment_Agenda$4
+ com.juliovazquez.hsind.Activities.Agenda.Fragment_Agenda$5
+ com.juliovazquez.hsind.Activities.Agenda.Fragment_Agenda$5$1
+com/juliovazquez/hsind/Activities/Agenda/Fragment_Agregar_Evento.java
+ com.juliovazquez.hsind.Activities.Agenda.Fragment_Agregar_Evento
+ com.juliovazquez.hsind.Activities.Agenda.Fragment_Agregar_Evento$1
+ com.juliovazquez.hsind.Activities.Agenda.Fragment_Agregar_Evento$1$1
+ com.juliovazquez.hsind.Activities.Agenda.Fragment_Agregar_Evento$2
+ com.juliovazquez.hsind.Activities.Agenda.Fragment_Agregar_Evento$2$1
+com/juliovazquez/hsind/Adapters/Adapter_Signo.java
+ com.juliovazquez.hsind.Adapters.Adapter_Signo
+ com.juliovazquez.hsind.Adapters.Adapter_Signo$ViewHolder
+com/juliovazquez/hsind/Adapters/ItemClickListener.java
+ com.juliovazquez.hsind.Adapters.ItemClickListener
+com/juliovazquez/hsind/Activities/Paciente/Fragment_Agregar_Paciente.java
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Agregar_Paciente
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Agregar_Paciente$1
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Agregar_Paciente$1$1
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Agregar_Paciente$2
+com/juliovazquez/hsind/Pojos/Pojo_Codigo_Error.java
+ com.juliovazquez.hsind.Pojos.Pojo_Codigo_Error
+com/juliovazquez/hsind/Adapters/Adapter_Nota.java
+ com.juliovazquez.hsind.Adapters.Adapter_Nota
+ com.juliovazquez.hsind.Adapters.Adapter_Nota$ViewHolder
+com/juliovazquez/hsind/Pojos/Pojo_Nota.java
+ com.juliovazquez.hsind.Pojos.Pojo_Nota
+com/juliovazquez/hsind/Services/Service_Firebase_Messaging.java
+ com.juliovazquez.hsind.Services.Service_Firebase_Messaging
+com/juliovazquez/hsind/Activities/Usuario/Fragment_Perfil_Usuario.java
+ com.juliovazquez.hsind.Activities.Usuario.Fragment_Perfil_Usuario
+ com.juliovazquez.hsind.Activities.Usuario.Fragment_Perfil_Usuario$1
+ com.juliovazquez.hsind.Activities.Usuario.Fragment_Perfil_Usuario$2
+com/juliovazquez/hsind/Activities/Paciente/Fragment_Notas_Paciente.java
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Notas_Paciente
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Notas_Paciente$1
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Notas_Paciente$1$1
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Notas_Paciente$2
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Notas_Paciente$2$1
+com/juliovazquez/hsind/Activities/Paciente/Fragment_Signos_Paciente.java
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Signos_Paciente
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Signos_Paciente$1
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Signos_Paciente$1$1
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Signos_Paciente$2
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Signos_Paciente$2$1
+com/juliovazquez/hsind/Activities/Paciente/Fragment_Resumen_Paciente.java
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Resumen_Paciente
+com/juliovazquez/hsind/Activities/Usuario/Activity_Login.java
+ com.juliovazquez.hsind.Activities.Usuario.Activity_Login
+ com.juliovazquez.hsind.Activities.Usuario.Activity_Login$1
+ com.juliovazquez.hsind.Activities.Usuario.Activity_Login$2
+ com.juliovazquez.hsind.Activities.Usuario.Activity_Login$3
+ com.juliovazquez.hsind.Activities.Usuario.Activity_Login$4
+ com.juliovazquez.hsind.Activities.Usuario.Activity_Login$4$1
+ com.juliovazquez.hsind.Activities.Usuario.Activity_Login$5
+ com.juliovazquez.hsind.Activities.Usuario.Activity_Login$5$1
+ com.juliovazquez.hsind.Activities.Usuario.Activity_Login$6
+ com.juliovazquez.hsind.Activities.Usuario.Activity_Login$6$1
+com/juliovazquez/hsind/Activities/Agenda/Fragment_Info_Evento.java
+ com.juliovazquez.hsind.Activities.Agenda.Fragment_Info_Evento
+ com.juliovazquez.hsind.Activities.Agenda.Fragment_Info_Evento$1
+ com.juliovazquez.hsind.Activities.Agenda.Fragment_Info_Evento$2
+ com.juliovazquez.hsind.Activities.Agenda.Fragment_Info_Evento$3
+ com.juliovazquez.hsind.Activities.Agenda.Fragment_Info_Evento$3$1
+ com.juliovazquez.hsind.Activities.Agenda.Fragment_Info_Evento$4
+ com.juliovazquez.hsind.Activities.Agenda.Fragment_Info_Evento$4$1
+ com.juliovazquez.hsind.Activities.Agenda.Fragment_Info_Evento$5
+ com.juliovazquez.hsind.Activities.Agenda.Fragment_Info_Evento$5$1
+ com.juliovazquez.hsind.Activities.Agenda.Fragment_Info_Evento$6
+ com.juliovazquez.hsind.Activities.Agenda.Fragment_Info_Evento$6$1
+com/juliovazquez/hsind/Pojos/Pojo_Drawable_Event.java
+ com.juliovazquez.hsind.Pojos.Pojo_Drawable_Event
+com/juliovazquez/hsind/Pojos/Pojo_Historia_Clinica.java
+ com.juliovazquez.hsind.Pojos.Pojo_Historia_Clinica
+com/juliovazquez/hsind/Services/Service_Consumo.java
+ com.juliovazquez.hsind.Services.Service_Consumo
+com/juliovazquez/hsind/Activities/Paciente/Fragment_Pacientes.java
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Pacientes
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Pacientes$1
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Pacientes$2
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Pacientes$3
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Pacientes$4
+ com.juliovazquez.hsind.Activities.Paciente.Fragment_Pacientes$4$1
+com/juliovazquez/hsind/Activities/Usuario/Activity_Menu_Principal.java
+ com.juliovazquez.hsind.Activities.Usuario.Activity_Menu_Principal
+ com.juliovazquez.hsind.Activities.Usuario.Activity_Menu_Principal$1
+ com.juliovazquez.hsind.Activities.Usuario.Activity_Menu_Principal$2
+com/juliovazquez/hsind/Tools/Tool_Internet.java
+ com.juliovazquez.hsind.Tools.Tool_Internet
+com/juliovazquez/hsind/Activities/Paciente/Activity_Menu_Paciente.java
+ com.juliovazquez.hsind.Activities.Paciente.Activity_Menu_Paciente
+ com.juliovazquez.hsind.Activities.Paciente.Activity_Menu_Paciente$1
+ com.juliovazquez.hsind.Activities.Paciente.Activity_Menu_Paciente$1$1
+com/juliovazquez/hsind/Activities/Usuario/Activity_Splash_Screen.java
+ com.juliovazquez.hsind.Activities.Usuario.Activity_Splash_Screen
+ com.juliovazquez.hsind.Activities.Usuario.Activity_Splash_Screen$1
+ com.juliovazquez.hsind.Activities.Usuario.Activity_Splash_Screen$2
+ com.juliovazquez.hsind.Activities.Usuario.Activity_Splash_Screen$2$1
+com/juliovazquez/hsind/Activities/Agenda/DrawableEventRenderer.java
+ com.juliovazquez.hsind.Activities.Agenda.DrawableEventRenderer
+com/juliovazquez/hsind/Pojos/Pojo_Signos_Vitales.java
+ com.juliovazquez.hsind.Pojos.Pojo_Signos_Vitales
+com/juliovazquez/hsind/Adapters/Adapter_Paciente.java
+ com.juliovazquez.hsind.Adapters.Adapter_Paciente
+ com.juliovazquez.hsind.Adapters.Adapter_Paciente$1
+ com.juliovazquez.hsind.Adapters.Adapter_Paciente$ViewHolder

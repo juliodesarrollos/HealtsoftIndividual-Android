@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.Agenda.Fragment_Agregar_Evento">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:gravity="center"
+                    android:maxLines="1"
+                    android:paddingLeft="40dp"
+                    android:paddingRight="40dp"
+                    android:text="Agendar cita"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="25sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:orientation="vertical">
+
+                <EditText
+                    android:id="@+id/txtTitulo"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/edittext_bordeazul"
+                    android:enabled="true"
+                    android:hint="Motivo de la cita "
+                    android:inputType="text"
+                    android:maxLines="1"
+                    android:padding="10dp"
+                    android:textSize="13sp" />
+
+                <Spinner
+                    android:id="@+id/spPaciente"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:autofillHints="Paciente"
+                    android:background="@drawable/edittext_bordeazul"
+                    android:textSize="10sp" />
+
+                <EditText
+                    android:id="@+id/txtDateTime"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/edittext_bordeazul"
+                    android:clickable="true"
+                    android:focusable="false"
+                    android:hint="Fecha y hora"
+                    android:inputType="datetime"
+                    android:maxLines="1"
+                    android:padding="10dp"
+                    android:textSize="13sp" />
+
+                <EditText
+                    android:id="@+id/txtColor"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/edittext_bordeazul"
+                    android:clickable="true"
+                    android:focusable="false"
+                    android:hint="Color"
+                    android:inputType="text"
+                    android:maxLines="1"
+                    android:padding="10dp"
+                    android:textSize="13sp" />
+
+                <LinearLayout
+                    android:id="@+id/layoutColor"
+                    android:layout_marginTop="20dp"
+                    android:visibility="gone"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                        <RadioGroup
+                            android:id="@+id/colorGroup1"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal">
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color1"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color1"
+                                android:clickable="true" />
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color2"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color2"
+                                android:clickable="true" />
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color3"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color3"
+                                android:clickable="true" />
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color4"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color4"
+                                android:clickable="true" />
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color5"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color5"
+                                android:clickable="true" />
+                        </RadioGroup>
+                        <RadioGroup
+                            android:id="@+id/colorGroup2"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal">
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color6"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color6"
+                                android:clickable="true" />
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color7"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color7"
+                                android:clickable="true" />
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color8"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color8"
+                                android:clickable="true" />
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color9"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color9"
+                                android:clickable="true" />
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color10"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color10"
+                                android:clickable="true" />
+                        </RadioGroup>
+                        <RadioGroup
+                            android:id="@+id/colorGroup3"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal">
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color11"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color11"
+                                android:clickable="true" />
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color12"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color12"
+                                android:clickable="true" />
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color13"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color13"
+                                android:clickable="true" />
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color14"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color14"
+                                android:clickable="true" />
+
+                            <RadioButton
+                                android:layout_weight=".2"
+                                android:id="@+id/color15"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:background="@color/color15"
+                                android:clickable="true" />
+                        </RadioGroup>
+                </LinearLayout>
+
+                <EditText
+                    android:id="@+id/txtDescripcion"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/edittext_bordeazul"
+                    android:enabled="true"
+                    android:hint="Comentarios"
+                    android:inputType="text"
+                    android:maxLines="1"
+                    android:padding="10dp"
+                    android:textSize="13sp" />
+
+                <Button
+                    android:id="@+id/btnAgregar"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginTop="30dp"
+                    android:layout_marginRight="30dp"
+                    android:background="@drawable/boton_azul"
+                    android:text="Agregar"
+                    android:textColor="@color/white"
+                    android:textSize="15sp" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

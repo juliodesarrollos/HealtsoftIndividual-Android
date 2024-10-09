@@ -1,0 +1,862 @@
+[
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_add_nota.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_add_nota.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_signos__paciente.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\layout\\fragment_signos__paciente.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dolor.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_dolor.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendario.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_calendario.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_boton_cerrar.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_boton_cerrar.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_anadir.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_anadir.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_add_ritmo_cardiaco.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add_ritmo_cardiaco.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_dolor.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_dolor.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_terapeuta.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_terapeuta.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_logout.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_historia_clinica.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_historia_clinica.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_historia_clinica.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_historia_clinica.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_agregar_usuario.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_agregar_usuario.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_logout.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_terapeuta.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_terapeuta.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_notas.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_notas.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_logo_rectangular.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\logo_rectangular.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_terapeuta.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_terapeuta.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\layout_contenido_menu_pacientes.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\layout\\contenido_menu_pacientes.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_paciente.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_paciente.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_splash_round.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\mipmap-anydpi-v26\\splash_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_fisioterapia.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_fisioterapia.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_contorno_gris.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\drawable\\contorno_gris.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_estetoscopio.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_estetoscopio.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_boton_cerrar.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_boton_cerrar.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment__info__evento.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\layout\\fragment__info__evento.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_anadir.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_anadir.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo_rectangular.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\logo_rectangular.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_estetoscopio.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_estetoscopio.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_boton_amarillo.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\drawable\\boton_amarillo.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_boton_azul.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\drawable\\boton_azul.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add_ritmo_cardiaco.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_add_ritmo_cardiaco.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_terapeuta.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_terapeuta.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_prerfil_fb_trz.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_prerfil_fb_trz.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_dolor.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_dolor.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_boton_abrir.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_boton_abrir.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_logout.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_calendario.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_calendario.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_nota.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\layout\\item_nota.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_ritmo_cardiaco.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_ritmo_cardiaco.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_paciente.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_paciente.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add_nota.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_add_nota.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_boton_abrir.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_boton_abrir.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_ritmo_cardiaco.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_ritmo_cardiaco.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_anadir.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_anadir.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo_rectangular.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\logo_rectangular.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_estetoscopio.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_estetoscopio.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_agregar_usuario.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_agregar_usuario.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add_ritmo_cardiaco.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add_ritmo_cardiaco.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_terapeuta.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_terapeuta.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_agregar_usuario.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_agregar_usuario.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_paciente.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_paciente.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_splash.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\mipmap-xhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_boton_abrir.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_boton_abrir.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment__agregar__signos.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\layout\\fragment__agregar__signos.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_calendario.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_calendario.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add_ritmo_cardiaco.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_add_ritmo_cardiaco.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_add_nota.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add_nota.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_hora.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_hora.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_prerfil_fb_trz_blanco.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_prerfil_fb_trz_blanco.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_fisioterapia.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_fisioterapia.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu_principal.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\layout\\activity_menu_principal.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_historia__clinica.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\layout\\fragment_historia__clinica.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_agregar_paciente.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\layout\\fragment_agregar_paciente.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_boton_cerrar.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_boton_cerrar.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_splash.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\mipmap-mdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_splash_round.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\mipmap-xxhdpi\\splash_round.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_estetoscopio.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_estetoscopio.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_add_ritmo_cardiaco.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_add_ritmo_cardiaco.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_boton_abrir.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_boton_abrir.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_splash_round.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\mipmap-mdpi\\splash_round.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo_rectangular.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\logo_rectangular.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_dolor.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_dolor.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_boton_abrir.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_boton_abrir.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_boton_cerrar.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_boton_cerrar.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_boton_rojo.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\drawable\\boton_rojo.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_notas.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_notas.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_estetoscopio.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_estetoscopio.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo_rectangular.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\logo_rectangular.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_terapeuta.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_terapeuta.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notas.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_notas.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_boton_deshabilitado.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\drawable\\boton_deshabilitado.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_dolor.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dolor.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_add_ritmo_cardiaco.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_add_ritmo_cardiaco.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_prerfil_fb_trz_blanco.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_prerfil_fb_trz_blanco.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_splash_round.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\mipmap-hdpi\\splash_round.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\layout_header_menu_paciente.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\layout\\header_menu_paciente.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_notas.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notas.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_splash.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\mipmap-xxxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_splash_foreground.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\mipmap-xxhdpi\\splash_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_logo_rectangular.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\logo_rectangular.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_splash_round.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\mipmap-xhdpi\\splash_round.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_estetoscopio.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_estetoscopio.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_prerfil_fb_trz.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_prerfil_fb_trz.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notas.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_notas.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_prerfil_fb_trz.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_prerfil_fb_trz.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_hora.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_hora.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_splash_foreground.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\mipmap-hdpi\\splash_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_historia_clinica.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_historia_clinica.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_buscar.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\menu\\menu_buscar.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_ritmo_cardiaco.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_ritmo_cardiaco.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_historia_clinica.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_historia_clinica.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\color_selector_color_1.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\color\\selector_color_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add_nota.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add_nota.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_anadir.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_anadir.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_event_calendar.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\layout\\item_event_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_logo_rectangular.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\logo_rectangular.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_paciente_.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\layout\\activity_paciente_.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_terapeuta.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_terapeuta.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_fisioterapia.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_fisioterapia.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_boton_cerrar.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_boton_cerrar.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_calendario.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_calendario.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_hora.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_hora.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_ritmo_cardiaco.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_ritmo_cardiaco.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_agregar_usuario.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_agregar_usuario.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_ritmo_cardiaco.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_ritmo_cardiaco.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_splash.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\mipmap-hdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_ritmo_cardiaco.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_ritmo_cardiaco.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_logout.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_hora.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_hora.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment__agregar__evento.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\layout\\fragment__agregar__evento.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_prerfil_fb_trz_blanco.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_prerfil_fb_trz_blanco.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_calendario.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_calendario.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_calendario.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_calendario.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_agenda.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\layout\\fragment_agenda.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_agregar__nota.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\layout\\fragment_agregar__nota.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add_nota.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_add_nota.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_prerfil_fb_trz.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_prerfil_fb_trz.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_historia_clinica.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_historia_clinica.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_prerfil_fb_trz.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_prerfil_fb_trz.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_resumen_.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\layout\\fragment_resumen_.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_pacientes.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\menu\\menu_pacientes.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_calendario.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_calendario.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment__aviso__privacidad.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\layout\\fragment__aviso__privacidad.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_boton_verde.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\drawable\\boton_verde.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_agregar_usuario.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_agregar_usuario.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_prerfil_fb_trz.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_prerfil_fb_trz.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_dolor.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_dolor.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_estetoscopio.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_estetoscopio.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_prerfil_fb_trz_blanco.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_prerfil_fb_trz_blanco.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_notas.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_notas.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_fisioterapia.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_fisioterapia.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_splash_foreground.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\mipmap-mdpi\\splash_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_signos.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\layout\\item_signos.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_prerfil_fb_trz_blanco.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_prerfil_fb_trz_blanco.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_prerfil_fb_trz_blanco.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_prerfil_fb_trz_blanco.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_agregar_usuario.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_agregar_usuario.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment__perfil__usuario.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\layout\\fragment__perfil__usuario.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_ritmo_cardiaco.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_ritmo_cardiaco.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_dolor.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_dolor.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_paciente.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_paciente.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_boton_cerrar.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_boton_cerrar.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu_.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\layout\\activity_menu_.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_logout.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_logout.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_busqueda.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\layout\\menu_busqueda.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_hora.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_hora.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_logout.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_anadir.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_anadir.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_historia_clinica.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_historia_clinica.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_hora.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_hora.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_add_nota.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_add_nota.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add_nota.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_add_nota.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add_ritmo_cardiaco.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_add_ritmo_cardiaco.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_splash_round.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\mipmap-xxxhdpi\\splash_round.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_paciente.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_paciente.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_pacientes.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\layout\\fragment_pacientes.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_anadir.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_anadir.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_boton_abrir.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_boton_abrir.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_paciente.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_paciente.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_notas.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_notas.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_fisioterapia.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_fisioterapia.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notas__paciente.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\layout\\fragment_notas__paciente.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_splash.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\mipmap-anydpi-v26\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_splash.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\mipmap-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_prerfil_fb_trz.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_prerfil_fb_trz.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_historia_clinica.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_historia_clinica.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_hora.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_hora.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_boton_cerrar.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_boton_cerrar.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_agregar_usuario.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_agregar_usuario.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edittext_bordeazul.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\drawable\\edittext_bordeazul.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_paciente.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_paciente.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_prerfil_fb_trz_blanco.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_prerfil_fb_trz_blanco.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_paciente.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\layout\\item_paciente.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_fisioterapia.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_fisioterapia.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_boton_abrir.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_boton_abrir.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_splash_foreground.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\mipmap-xxxhdpi\\splash_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_color.xml.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\drawable\\tab_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_splash_foreground.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\src\\main\\res\\mipmap-xhdpi\\splash_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_anadir.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_anadir.png"
+    },
+    {
+        "merged": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_fisioterapia.png.flat",
+        "source": "C:\\Users\\julio\\Documents\\Android Studio Projects\\Healtsoft android\\HSInd\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_fisioterapia.png"
+    }
+]

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item android:id="@+id/nav_item_resumen"
+            android:checkable="true"
+            android:icon="@drawable/ic_paciente"
+            android:title="Resumen del paciente" />
+        <item android:id="@+id/nav_item_hc"
+            android:icon="@drawable/ic_historia_clinica"
+            android:checkable="true"
+            android:title="Historia clinica" />
+        <item android:id="@+id/nav_item_notas"
+            android:icon="@drawable/ic_notas"
+            android:checkable="true"
+            android:title="Notas terapeuticas" />
+        <item android:id="@+id/nav_item_signos"
+            android:icon="@drawable/ic_ritmo_cardiaco"
+            android:checkable="true"
+            android:title="Signos vitales" />
+    </group>
+
+</menu>

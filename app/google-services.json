@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "410503496289",
+    "firebase_url": "https://hsind-baf05.firebaseio.com",
+    "project_id": "hsind-baf05",
+    "storage_bucket": "hsind-baf05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410503496289:android:1039dd381ff0c5ba01a020",
+        "android_client_info": {
+          "package_name": "com.juliovazquez.hsind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410503496289-ugutsrr7cecai8l3ekr4suo2a969s6oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIi7kAQQTww6E_GHBIZYM-4R-lF8K4n28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410503496289-ugutsrr7cecai8l3ekr4suo2a969s6oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,228 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.juliovazquez.hsind"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:6:5-79
+11-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:6:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:7:5-67
+12-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:7:22-64
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:8:5-80
+13-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:8:22-77
+14    <uses-permission android:name="android.permission.READ_CALENDAR" />
+14-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:9:5-72
+14-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:9:22-69
+15    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+15-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:10:5-73
+15-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:10:22-70
+16    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+16-->[com.google.firebase:firebase-iid:20.0.2] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\c9db0434b2d11d5fd7c77a1108905ace\jetified-firebase-iid-20.0.2\AndroidManifest.xml:24:5-68
+16-->[com.google.firebase:firebase-iid:20.0.2] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\c9db0434b2d11d5fd7c77a1108905ace\jetified-firebase-iid-20.0.2\AndroidManifest.xml:24:22-65
+17    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+17-->[com.google.firebase:firebase-iid:20.0.2] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\c9db0434b2d11d5fd7c77a1108905ace\jetified-firebase-iid-20.0.2\AndroidManifest.xml:26:5-82
+17-->[com.google.firebase:firebase-iid:20.0.2] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\c9db0434b2d11d5fd7c77a1108905ace\jetified-firebase-iid-20.0.2\AndroidManifest.xml:26:22-79
+18
+19    <application
+19-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:12:5-45:19
+20        android:allowBackup="true"
+20-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:13:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.3.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\8b895fe480a61b401333abcc2e952028\core-1.3.0\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:icon="@drawable/ic_launcher"
+23-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:14:9-45
+24        android:label="@string/app_name"
+24-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:15:9-41
+25        android:networkSecurityConfig="@xml/network_security_config"
+25-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:16:9-69
+26        android:roundIcon="@drawable/ic_launcher_foreground"
+26-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:17:9-61
+27        android:supportsRtl="true"
+27-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:18:9-35
+28        android:testOnly="true"
+29        android:theme="@style/AppTheme" >
+29-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:19:9-40
+30        <activity android:name="com.juliovazquez.hsind.Activities.Paciente.Activity_Menu_Paciente" />
+30-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:20:9-80
+30-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:20:19-77
+31        <activity android:name="com.juliovazquez.hsind.Activities.Usuario.Activity_Menu_Principal" />
+31-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:21:9-80
+31-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:21:19-77
+32        <activity android:name="com.juliovazquez.hsind.Activities.Usuario.Activity_Login" />
+32-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:22:9-71
+32-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:22:19-68
+33        <activity android:name="com.juliovazquez.hsind.Activities.Usuario.Activity_Splash_Screen" >
+33-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:23:9-32:20
+33-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:23:19-76
+34            <intent-filter>
+34-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:24:13-27:29
+35                <action android:name="Activity_Splash_Screen" />
+35-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:25:17-65
+35-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:25:25-62
+36
+37                <category android:name="android.intent.category.DEFAULT" />
+37-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:26:17-76
+37-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:26:27-73
+38            </intent-filter>
+39            <intent-filter>
+39-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:28:13-31:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:29:17-69
+40-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:29:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:30:17-77
+42-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:30:27-74
+43            </intent-filter>
+44        </activity>
+45
+46        <service
+46-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:34:9-40:19
+47            android:name="com.juliovazquez.hsind.Services.Service_Firebase_Messaging"
+47-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:35:13-64
+48            android:exported="false" >
+48-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:36:13-37
+49            <intent-filter>
+49-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:37:13-39:29
+50                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+50-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:38:17-78
+50-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:38:25-75
+51            </intent-filter>
+52        </service>
+53
+54        <meta-data
+54-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:42:9-44:63
+55            android:name="com.google.firebase.messaging.default_notification_channel_id"
+55-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:43:13-89
+56            android:value="@string/notification_channel_id" />
+56-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:44:13-60
+57        <!--
+58             FirebaseMessagingService performs security checks at runtime,
+59             but set to not exported to explicitly avoid allowing another app to call it.
+60        -->
+61        <service
+61-->[com.google.firebase:firebase-messaging:20.1.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\46728d5b331fcc471ce847e03be05d1d\jetified-firebase-messaging-20.1.0\AndroidManifest.xml:28:9-34:19
+62            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+62-->[com.google.firebase:firebase-messaging:20.1.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\46728d5b331fcc471ce847e03be05d1d\jetified-firebase-messaging-20.1.0\AndroidManifest.xml:29:13-82
+63            android:exported="false" >
+63-->[com.google.firebase:firebase-messaging:20.1.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\46728d5b331fcc471ce847e03be05d1d\jetified-firebase-messaging-20.1.0\AndroidManifest.xml:30:13-37
+64            <intent-filter android:priority="-500" >
+64-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:37:13-39:29
+65                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+65-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:38:17-78
+65-->C:\Users\julio\Documents\Android Studio Projects\Healtsoft android\HSInd\app\src\main\AndroidManifest.xml:38:25-75
+66            </intent-filter>
+67        </service>
+68        <service
+68-->[com.google.firebase:firebase-messaging:20.1.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\46728d5b331fcc471ce847e03be05d1d\jetified-firebase-messaging-20.1.0\AndroidManifest.xml:35:9-41:19
+69            android:name="com.google.firebase.components.ComponentDiscoveryService"
+69-->[com.google.firebase:firebase-messaging:20.1.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\46728d5b331fcc471ce847e03be05d1d\jetified-firebase-messaging-20.1.0\AndroidManifest.xml:36:13-84
+70            android:directBootAware="true"
+70-->[com.google.firebase:firebase-common:19.3.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\6f187287bbc9c29b2d5c7acb6e706ac7\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+71            android:exported="false" >
+71-->[com.google.firebase:firebase-messaging:20.1.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\46728d5b331fcc471ce847e03be05d1d\jetified-firebase-messaging-20.1.0\AndroidManifest.xml:37:13-37
+72            <meta-data
+72-->[com.google.firebase:firebase-messaging:20.1.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\46728d5b331fcc471ce847e03be05d1d\jetified-firebase-messaging-20.1.0\AndroidManifest.xml:38:13-40:85
+73                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+73-->[com.google.firebase:firebase-messaging:20.1.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\46728d5b331fcc471ce847e03be05d1d\jetified-firebase-messaging-20.1.0\AndroidManifest.xml:39:17-119
+74                android:value="com.google.firebase.components.ComponentRegistrar" />
+74-->[com.google.firebase:firebase-messaging:20.1.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\46728d5b331fcc471ce847e03be05d1d\jetified-firebase-messaging-20.1.0\AndroidManifest.xml:40:17-82
+75            <meta-data
+75-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\bb15ed3d1ee6b756bf1ba9c389bd9e82\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:28:13-30:85
+76                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+76-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\bb15ed3d1ee6b756bf1ba9c389bd9e82\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:29:17-115
+77                android:value="com.google.firebase.components.ComponentRegistrar" />
+77-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\bb15ed3d1ee6b756bf1ba9c389bd9e82\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:30:17-82
+78            <meta-data
+78-->[com.google.firebase:firebase-iid:20.0.2] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\c9db0434b2d11d5fd7c77a1108905ace\jetified-firebase-iid-20.0.2\AndroidManifest.xml:32:13-34:85
+79                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+79-->[com.google.firebase:firebase-iid:20.0.2] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\c9db0434b2d11d5fd7c77a1108905ace\jetified-firebase-iid-20.0.2\AndroidManifest.xml:33:17-96
+80                android:value="com.google.firebase.components.ComponentRegistrar" />
+80-->[com.google.firebase:firebase-iid:20.0.2] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\c9db0434b2d11d5fd7c77a1108905ace\jetified-firebase-iid-20.0.2\AndroidManifest.xml:34:17-82
+81        </service>
+82
+83        <receiver
+83-->[com.google.firebase:firebase-iid:20.0.2] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\c9db0434b2d11d5fd7c77a1108905ace\jetified-firebase-iid-20.0.2\AndroidManifest.xml:37:9-44:20
+84            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+84-->[com.google.firebase:firebase-iid:20.0.2] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\c9db0434b2d11d5fd7c77a1108905ace\jetified-firebase-iid-20.0.2\AndroidManifest.xml:38:13-78
+85            android:exported="true"
+85-->[com.google.firebase:firebase-iid:20.0.2] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\c9db0434b2d11d5fd7c77a1108905ace\jetified-firebase-iid-20.0.2\AndroidManifest.xml:39:13-36
+86            android:permission="com.google.android.c2dm.permission.SEND" >
+86-->[com.google.firebase:firebase-iid:20.0.2] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\c9db0434b2d11d5fd7c77a1108905ace\jetified-firebase-iid-20.0.2\AndroidManifest.xml:40:13-73
+87            <intent-filter>
+87-->[com.google.firebase:firebase-iid:20.0.2] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\c9db0434b2d11d5fd7c77a1108905ace\jetified-firebase-iid-20.0.2\AndroidManifest.xml:41:13-43:29
+88                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+88-->[com.google.firebase:firebase-iid:20.0.2] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\c9db0434b2d11d5fd7c77a1108905ace\jetified-firebase-iid-20.0.2\AndroidManifest.xml:42:17-81
+88-->[com.google.firebase:firebase-iid:20.0.2] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\c9db0434b2d11d5fd7c77a1108905ace\jetified-firebase-iid-20.0.2\AndroidManifest.xml:42:25-78
+89            </intent-filter>
+90        </receiver>
+91
+92        <provider
+92-->[com.google.firebase:firebase-common:19.3.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\6f187287bbc9c29b2d5c7acb6e706ac7\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+93            android:name="com.google.firebase.provider.FirebaseInitProvider"
+93-->[com.google.firebase:firebase-common:19.3.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\6f187287bbc9c29b2d5c7acb6e706ac7\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+94            android:authorities="com.juliovazquez.hsind.firebaseinitprovider"
+94-->[com.google.firebase:firebase-common:19.3.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\6f187287bbc9c29b2d5c7acb6e706ac7\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+95            android:exported="false"
+95-->[com.google.firebase:firebase-common:19.3.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\6f187287bbc9c29b2d5c7acb6e706ac7\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+96            android:initOrder="100" />
+96-->[com.google.firebase:firebase-common:19.3.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\6f187287bbc9c29b2d5c7acb6e706ac7\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+97
+98        <activity
+98-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\d9faaaf26fc140f365e3b207d6db990b\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+99            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+99-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\d9faaaf26fc140f365e3b207d6db990b\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+100            android:exported="false"
+100-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\d9faaaf26fc140f365e3b207d6db990b\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+101            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+101-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\d9faaaf26fc140f365e3b207d6db990b\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+102
+103        <meta-data
+103-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\ce53febe539132800a46a9079cdd025f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+104            android:name="com.google.android.gms.version"
+104-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\ce53febe539132800a46a9079cdd025f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+105            android:value="@integer/google_play_services_version" />
+105-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\ce53febe539132800a46a9079cdd025f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+106
+107        <service
+107-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\0c8fb69f4a0b40bb1610400a24250337\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:29:9-35:19
+108            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+108-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\0c8fb69f4a0b40bb1610400a24250337\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:30:13-103
+109            android:exported="false" >
+109-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\0c8fb69f4a0b40bb1610400a24250337\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:31:13-37
+110            <meta-data
+110-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\0c8fb69f4a0b40bb1610400a24250337\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:32:13-34:39
+111                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+111-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\0c8fb69f4a0b40bb1610400a24250337\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:33:17-94
+112                android:value="cct" />
+112-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\0c8fb69f4a0b40bb1610400a24250337\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:34:17-36
+113        </service>
+114        <service
+114-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\470bfa86e36d8e671599086e641c0d5c\jetified-transport-runtime-2.2.0\AndroidManifest.xml:26:9-30:19
+115            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+115-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\470bfa86e36d8e671599086e641c0d5c\jetified-transport-runtime-2.2.0\AndroidManifest.xml:27:13-117
+116            android:exported="false"
+116-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\470bfa86e36d8e671599086e641c0d5c\jetified-transport-runtime-2.2.0\AndroidManifest.xml:28:13-37
+117            android:permission="android.permission.BIND_JOB_SERVICE" >
+117-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\470bfa86e36d8e671599086e641c0d5c\jetified-transport-runtime-2.2.0\AndroidManifest.xml:29:13-69
+118        </service>
+119
+120        <receiver
+120-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\470bfa86e36d8e671599086e641c0d5c\jetified-transport-runtime-2.2.0\AndroidManifest.xml:32:9-34:40
+121            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+121-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\470bfa86e36d8e671599086e641c0d5c\jetified-transport-runtime-2.2.0\AndroidManifest.xml:33:13-132
+122            android:exported="false" />
+122-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\julio\.gradle\caches\transforms-2\files-2.1\470bfa86e36d8e671599086e641c0d5c\jetified-transport-runtime-2.2.0\AndroidManifest.xml:34:13-37
+123    </application>
+124
+125</manifest>
